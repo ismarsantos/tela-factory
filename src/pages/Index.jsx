@@ -11,7 +11,7 @@ const Index = () => {
       <Logo />
       <LoginForm />
       <div className="absolute bottom-4 left-4">
-        <img src="/meta-original-logo.svg" alt="Meta Original" className="h-12" />
+        <img src="/meta-original-logo.png" alt="Meta Original" className="h-12" />
       </div>
     </div>
   );
